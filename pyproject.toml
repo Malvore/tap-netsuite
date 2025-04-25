@@ -2,7 +2,7 @@
 name = "tap-netsuite"
 version = "2.0.2"
 description = "`tap-netsuite` is a Singer tap for Netsuite, built with the Meltano SDK for Singer Taps."
-authors = [{ name = "Josué Sehnem" }]
+authors = [{ name = "Aaron O'Toole" }]
 requires-python = ">=3.9"
 license = "Apache-2.0"
 keywords = [
